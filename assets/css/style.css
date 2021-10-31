@@ -248,18 +248,24 @@ section {
     display: inline-block;
     vertical-align: top;
     text-align: left;
-    margin: 30px 0 0 60px;
+    margin: 10px 0 0 20px;
     color: white;
   }
   
-
- /* 
- .reach-out-title {
-    font-size: 55px;
+  .contact-info h3 {
     color: #fce138;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    display: inline-block;
-    border-bottom: 3px solid;
+    font-size: 32px;
   }
-  */
+
+  .contact-info p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+  }
+
+  .contact-info a {
+    color: #fce138;
+  }
+
+  /* REACH OUT STYLES END */
