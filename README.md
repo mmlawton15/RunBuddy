@@ -16,6 +16,9 @@ A website that offers fitness training services. This project spanned the first 
 - Used Github to create a remote location for the repository, and then published the project to Github pages for others to see
 - Applied style and layout to HTML content by using CSS, leaning about its syntax, rules and quirks
 - Used the knowledge gained from building RUn Buddy landing page to creat a Privacy Policy page
+- Replaced the CSS floats with flexbox to create a more fluid layout
+- Applied media queries to accomodate multiple screen sizes and devices
+- Enhanced the visuals of the webpage with advanced CSS tricks such as pseudo-classes
 
 ## Website
 https://lernantino.github.io/run-buddy/
