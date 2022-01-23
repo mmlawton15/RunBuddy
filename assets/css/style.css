@@ -145,7 +145,7 @@ section {
     padding: 0 100px 20px 100px;
     display: inline-block;
     border-bottom: 3px solid;
-  }
+}
   
   .primary-border {
     border-color: #fce138;
@@ -228,7 +228,6 @@ section {
 
 
 /* REACH OUT STYLES START */
-
   .contact {
     text-align: center;
     background-color: #024e76;
@@ -268,5 +267,4 @@ section {
   .contact-info a {
     color: #fce138;
   }
-
   /* REACH OUT STYLES END */
